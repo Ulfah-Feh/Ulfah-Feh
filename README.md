@@ -36,10 +36,10 @@ AI bukan untuk menggantikan manusia, tapi membantu kita jadi lebih manusiawi.
 
 ---
 
-### 🎮 Let's Play: Cat & Dog Game
+### 🐾 Cat vs Dog – The Chase Begins
 
-🐱🐶 Klik tombol di bawah untuk main game seru ala Cat & Dog!  
-[🎮 Play Now](https://ulfah-feh.github.io/cat-dog-game)
+![catdog](https://ulfah-feh.github.io/cat-dog-game/catdog-chase.gif)
+
 
 > Game ringan buatan sendiri buat ngisi waktu santai.
 
