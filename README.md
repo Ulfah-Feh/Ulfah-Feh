@@ -52,7 +52,7 @@
 ### 📬 Hubungi Saya
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dede-ulfah)  
-📧 Email: [dedeulfah@example.com](mailto:dedeulfah@example.com)
+📧 Email: [dedeulfah@example.com](mailto:dedeulfah37@gmail.com)
 
 ---
 
