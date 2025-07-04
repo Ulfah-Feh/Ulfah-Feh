@@ -40,7 +40,6 @@ AI bukan untuk menggantikan manusia, tapi membantu kita jadi lebih manusiawi.
 
 ![catdog](https://ulfah-feh.github.io/cat-dog-game/catdog-chase.gif)
 
-
 > Game ringan buatan sendiri buat ngisi waktu santai.
 
 ---
