@@ -1,60 +1,47 @@
-<h1 align="center">Hi, I'm Dede Ulfah 👋</h1>
+<h2 align="center">Hi, I'm Dede Ulfah 👋</h2>
+
+---
+
+### ✨ Tentang Aku
+
+Aku suka teknologi yang bisa bantu orang berpikir lebih jernih, membuat keputusan lebih baik, dan berdampak untuk banyak orang.
+
+> Fokus utamaku: **AI yang etis, sistem yang efisien, dan belajar yang bermakna.**
+
+---
+
+### 🛠️ Tools Favoritku
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 💭 Perspektifku tentang IT & AI
+
+Aku percaya IT bukan cuma soal teknologi, tapi soal **membentuk masa depan yang lebih bijak**.  
+AI bukan untuk menggantikan manusia, tapi membantu kita jadi lebih manusiawi.
+
+---
+
+### 📊 Dashboard GitHub
+
 <p align="center">
-  🌱 NLP & AI Explorer | 💡 Problem Solver | 🎯 System Analyst in Progress
+  <img src="https://github-readme-stats.vercel.app/api?username=Ulfah-Feh&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulfah-Feh&layout=compact&theme=radical" />
 </p>
 
 ---
 
-### 👩‍💻 Tentang Saya
+### 🎮 Let's Play: Cat & Dog Game
 
-- 🎓 Lulusan S1 Informatika – STT Cipasung
-- 🚀 Fokus pada NLP, Machine Learning & System Analysis
-- 📚 Aktif belajar di Dicoding, Microsoft Learn & Orbit Future Academy
-- 🧠 Suka berpikir strategis, sistemik, dan dampak sosial teknologi
-- 🎖️ Alumni Kampus Mengajar dan program AI4Jobs
-- 🌍 Bercita-cita belajar di Asia dan membangun karier global di bidang teknologi
+🐱🐶 Klik tombol di bawah untuk main game seru ala Cat & Dog!  
+[🎮 Play Now](https://ulfah-feh.github.io/cat-dog-game)
+
+> Game ringan buatan sendiri buat ngisi waktu santai.
 
 ---
 
-### 🛠️ Tools & Skillset
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=mysql)
-![Figma](https://img.shields.io/badge/Figma-000000?style=flat&logo=figma)
-
----
-
-### 🚀 Proyek yang Dipin
-
-| Proyek | Deskripsi |
-|--------|-----------|
-| 🔬 [TopicModellingAmazonFood](https://github.com/Ulfah-Feh/TopicModellingAmazonFood) | Topic modeling menggunakan LDA di dataset review makanan Amazon |
-| 🧠 [Diabetes Risk Predictor](https://github.com/Ulfah-Feh/Diabetes_Risk_Predictor) | Model prediksi risiko diabetes menggunakan machine learning |
-| 🍱 [Food Classifier Streamlit](https://github.com/Ulfah-Feh/Food_classifier_streamlit) | Klasifikasi makanan Indonesia menggunakan TensorFlow & Streamlit |
-| 👩‍💼 [Prediksi Promosi Karyawan](https://github.com/Ulfah-Feh/Prediksi_promosi_karyawan) | Prediksi karyawan yang kemungkinan akan dipromosikan |
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ulfah-Feh&show_icons=true&theme=gruvbox" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ulfah-Feh&layout=compact&theme=gruvbox" />
-</p>
-
----
-
-### 📬 Hubungi Saya
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dede-ulfah)  
-📧 Email: [dedeulfah37@gmail.com](mailto:dedeulfah37@gmail.com)
-
----
-
-### 🧭 Sedikit Cerita
-> Aku senang membuat hal kompleks jadi lebih sederhana, dan selalu ingin belajar teknologi yang berdampak. 🌱✨
